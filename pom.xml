@@ -12,6 +12,7 @@
         <module>consumer</module>
         <module>producer</module>
         <module>admin</module>
+        <module>hw4</module>
     </modules>
 
     <properties>
